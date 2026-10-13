@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+android
+.env
+.env.local
+.DS_Store
+*.log
+# Generated files and local backups
+.git-backup-before-lfs/
+node_modules/
+.next/
+out/
+
